@@ -9,7 +9,7 @@ package repasoverano;
  *
  * @author estel
  */
-// v11
+// v11 pilInf
 public class Ejercicio_1 {
 
     /**
